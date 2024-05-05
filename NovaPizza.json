@@ -1,1 +1,10 @@
-
+{
+  "NovaPizza":
+  [
+    {"PizzaName":"Classic Cheese","Price":"$7.99","PizzaImage":"https://raw.githubusercontent.com/EliasMukhtarzada/JSONProjectsIT315/master/cheesepizza.jpg","Website":"https://free-4821668.webadorsite.com/", "PizzaDesc": "Regular cheese pizza with no added toppings."},
+    {"PizzaName":"Pepperoni","Price":"$13.99","PizzaImage":"https://raw.githubusercontent.com/EliasMukhtarzada/JSONProjectsIT315/master/pepperoni.jpg","Website":"https://free-4821668.webadorsite.com/", "PizzaDesc": "Delicious pizza for the pepperoni lovers."},
+    {"PizzaName":"Veggie","Price":"$9.99","PizzaImage":"https://raw.githubusercontent.com/EliasMukhtarzada/JSONProjectsIT315/master/veggie.jpg","Website":"https://free-4821668.webadorsite.com/", "PizzaDesc": "Pizza for those who prefer a vegan diet."},
+    {"PizzaName":"Mushroom","Price":"$11.99","PizzaImage":"https://raw.githubusercontent.com/EliasMukhtarzada/JSONProjectsIT315/master/mushroom.jpg","Website":"https://free-4821668.webadorsite.com/", "PizzaDesc": "Cheese pizza with added mushrooms."}
+  ],
+  "Status":"OK"
+}
